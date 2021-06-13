@@ -1,0 +1,493 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"get_startDate"
+			],
+			[
+				"days",
+				"daysDiff"
+			],
+			[
+				"date",
+				"datetime_obj"
+			],
+			[
+				"end",
+				"endDate"
+			],
+			[
+				"wri",
+				"writeFinal"
+			],
+			[
+				"cen",
+				"text-center"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"CE",
+				"text-center"
+			],
+			[
+				"we",
+				"wageHours"
+			],
+			[
+				"utc_",
+				"utc_to_local"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 43,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "functions.py",
+			"settings":
+			{
+				"buffer_size": 936,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gui.py",
+			"settings":
+			{
+				"buffer_size": 1552,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"virtual",
+				"Virtualenv: Activate"
+			],
+			[
+				"virtua",
+				"Virtualenv: Activate"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/tiogeras/development/Nacho/Entrega 2 - Date Diffs/Package Control Messages",
+		"/home/tiogeras/development/Nacho/Entrega 2 - Date Diffs/main.sublime-project",
+		"/home/tiogeras/development/Nacho/Entrega 2 - Date Diffs/main.py",
+		"/home/tiogeras/development/Nacho/Entrega 2 - Date Diffs/datediffs/main.py",
+		"/home/tiogeras/development/Nacho/Entrega 2 - Date Diffs/datediffs/bin/main.py",
+		"/home/tiogeras/development/Nacho/Entrega 2 - Date Diffs/datediffs/Main.py",
+		"/home/tiogeras/development/Nacho/Entrega 2 - Date Diffs/Main.py",
+		"/home/tiogeras/vpn utez",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/puestos.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/base.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/persons.py",
+		"/home/tiogeras/development/Nacho/Entrega 1/reader.py",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos-2021-06-07 20:37:16.640643.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/Entrega1.py",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos-2021-06-07 20:08:35.862263.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos-2021-06-07 20:03:05.520126.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos-2021-05-27 21:30:20.329740.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/Arleth.py",
+		"/home/tiogeras/development/Nacho/Entrega 1/Isa_Script_1/Functions.py",
+		"/home/tiogeras/development/Nacho/Entrega 1/Isa_Script_1/Class.py",
+		"/home/tiogeras/development/Nacho/Entrega 1/Isa_Script_1/ISA_Script_1.py",
+		"/home/tiogeras/development/Nacho/Entrega 1/Isa_Script_1/pagos 2021-05-27 21:26:45.182786.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/Functions.py",
+		"/home/tiogeras/development/Nacho/Entrega 1/Class.py",
+		"/home/tiogeras/development/Nacho/Entrega 1/ISA_Script_1.py",
+		"/home/tiogeras/development/Nacho/Entrega 1/pagos 2021-05-27 21:25:15.522188.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/pagos 2021-05-27 21:23:36.979945.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/pagos 2021-05-27 21:14:33.579172.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/pagos 2021-05-27 21:14:04.302132.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/pagos 2021-05-27 21:13:47.118836.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/JJ-SCRIPT.py",
+		"/home/tiogeras/development/Nacho/Entrega 1/Module_1.py",
+		"/home/tiogeras/development/Nacho/Entrega 1/Module_2.py",
+		"/home/tiogeras/development/Nacho/Entrega 1/ModuloA.py",
+		"/home/tiogeras/development/Nacho/Entrega 1/ModuloB.py",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos-2021-05-26 22:55:22.689508.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos-2021-05-26 00:07:59.637707.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/ModuloA",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos-2021-05-26 00:07:29.564326.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos2021-05-26 00:06:05.965022.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos2021-05-26 00:04:51.332962.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos2021-05-26 00:04:21.602687.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos2021-05-26 00:04:37.813024.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos2021-05-26 00:04:12.893825.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos2021-05-26 00:03:52.652619.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos2021-05-26 00:03:39.423880.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos2021-05-26 00:03:12.453011.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos2021-05-26 00:02:43.944672.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos2021-05-26 00:02:30.063314.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos2021-05-26 00:01:42.514209.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos2021-05-26 00:01:56.233878.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos2021-05-26 00:02:15.945482.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos2021-05-26 00:00:34.294115.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos2021-05-26 00:01:08.095891.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos2021-05-25 23:59:39.466025.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos2021-05-25 23:57:31.823576.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos2021-05-25 23:52:42.436337.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos2021-05-25 23:52:15.978874.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos2021-05-25 23:51:07.214580.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos2021-05-25 23:49:52.222720.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos2021-05-25 23:40:21.752295.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/files/pagos2021-05-25 23:38:54.864762.txt",
+		"/home/tiogeras/development/Nacho/Entrega 1/modulo2.py",
+		"/home/tiogeras/development/Nacho/Entrega 1/modulo1.py",
+		"/home/tiogeras/Downloads/Script de inglish Arleth.txt",
+		"/home/tiogeras/.cache/.fr-yGbiFT/info.txt",
+		"/home/tiogeras/packettracer/packettracer.sh",
+		"/home/tiogeras/Documents/English participations",
+		"/home/tiogeras/Integradora Nacho/GWS-Parking/templates/login.html",
+		"/home/tiogeras/Integradora Nacho/GWS-Parking/templates/tomarBoleto.html",
+		"/home/tiogeras/Integradora Nacho/GWS-Parking/templates/errorPago.html",
+		"/home/tiogeras/Integradora Nacho/GWS-Parking/templates/dashboard.html",
+		"/home/tiogeras/Integradora Nacho/GWS-Parking/templates/salidas.html",
+		"/home/tiogeras/Integradora Nacho/GWS-Parking/templates/pagar.html",
+		"/home/tiogeras/Integradora Nacho/GWS-Parking/templates/index.html",
+		"/home/tiogeras/Integradora Nacho/GWS-Parking/app.py",
+		"/home/tiogeras/Integradora Nacho/GWS-Parking.1/app.py",
+		"/home/tiogeras/Integradora Nacho/GWS-Parking/templates/table.html",
+		"/home/tiogeras/Integradora Nacho/GWS-Parking/BS3/assets/css/light-bootstrap-dashboard.css",
+		"/home/tiogeras/Integradora Nacho/GWS-Parking/BS3/assets/css/bootstrap.min.css",
+		"/home/tiogeras/Integradora Nacho/GWS-Parking/templates/tomaBoleto.html",
+		"/home/tiogeras/Integradora Nacho/Flask-Weather-Dashboard-Final/templates/dashboard.html",
+		"/home/tiogeras/Integradora Nacho/Flask-Weather-Dashboard-Final/templates/user.html",
+		"/home/tiogeras/Integradora Nacho/Flask-Weather-Dashboard-Final/templates/upgrade.html",
+		"/home/tiogeras/Integradora Nacho/Flask-Weather-Dashboard-Final/templates/typography.html",
+		"/home/tiogeras/Integradora Nacho/Flask-Weather-Dashboard-Final/templates/table.html",
+		"/home/tiogeras/Integradora Nacho/Flask-Weather-Dashboard-Final/templates/notifications.html",
+		"/home/tiogeras/Integradora Nacho/Flask-Weather-Dashboard-Final/templates/maps.html",
+		"/home/tiogeras/Integradora Nacho/Flask-Weather-Dashboard-Final/templates/icons.html",
+		"/home/tiogeras/Integradora Nacho/Flask-Weather-Dashboard-Final/static/assets/css/light-bootstrap-dashboard.css",
+		"/home/tiogeras/Integradora Nacho/Flask-Weather-Dashboard-Final/static/assets/css/bootstrap.min.css",
+		"/home/tiogeras/Integradora Nacho/Flask-Weather-Dashboard-Final/templates/pagar.html",
+		"/home/tiogeras/Integradora Nacho/Flask-Weather-Dashboard-Final/templates/index.html",
+		"/home/tiogeras/Integradora Nacho/Flask-Weather-Dashboard-Final/app.py",
+		"/home/tiogeras/Integradora Nacho/Flask-Weather-Dashboard-Final/static/assets/css/demo.css",
+		"/home/tiogeras/Integradora Nacho/Flask-Weather-Dashboard-Final/static/assets/js/light-bootstrap-dashboard.js",
+		"/home/tiogeras/Integradora Nacho/Flask-Weather-Dashboard-Final/static/assets/js/plugins/bootstrap-notify.js",
+		"/home/tiogeras/Integradora Nacho/Flask-Weather-Dashboard-Final/static/assets/js/core/jquery.3.2.1.min.js",
+		"/home/tiogeras/Integradora Nacho/Flask-Weather-Dashboard-Final/static/assets/js/core/popper.min.js",
+		"/home/tiogeras/Integradora Nacho/Flask-Weather-Dashboard-Final/static/assets/js/core/bootstrap.min.js",
+		"/home/tiogeras/Integradora Nacho/skydash-free-bootstrap-admin-template-main/template/index.html",
+		"/home/tiogeras/Integradora Nacho/skydash-free-bootstrap-admin-template-main/template/app.py",
+		"/home/tiogeras/Downloads/skydash-free-bootstrap-admin-template-main/template/index.html",
+		"/home/tiogeras/Integradora Nacho/flask-black-dashboard/run.py",
+		"/home/tiogeras/Integradora Nacho/flask-black-dashboard/app/base/templates/accounts/register.html",
+		"/home/tiogeras/Integradora Nacho/flask-black-dashboard/app/base/templates/accounts/login.html",
+		"/home/tiogeras/Integradora Nacho/flask-black-dashboard/config.py",
+		"/home/tiogeras/Integradora Nacho/flask-black-dashboard/app/home/templates/index.html",
+		"/home/tiogeras/Integradora Nacho/flask-black-dashboard/app/home/templates/page-user.html",
+		"/home/tiogeras/Integradora Nacho/flask-black-dashboard/app/base/templates/includes/navigation.html",
+		"/home/tiogeras/Integradora Nacho/flask-black-dashboard/app/base/templates/includes/sidebar.html",
+		"/home/tiogeras/Integradora Nacho/flask-black-dashboard/app/base/static/assets/css/black-dashboard.css",
+		"/home/tiogeras/Integradora Nacho/flask-black-dashboard/app/base/templates/layouts/base.html",
+		"/home/tiogeras/Integradora Nacho/flask-black-dashboard/app/base/templates/includes/footer.html",
+		"/home/tiogeras/Integradora Nacho/flask-black-dashboard/app/base/templates/includes/scripts.html",
+		"/home/tiogeras/Integradora Nacho/flask-black-dashboard/app/base/templates/includes/fixed-plugin.html",
+		"/home/tiogeras/Integradora Nacho/flask-black-dashboard/app/__init__.py",
+		"/home/tiogeras/Integradora Nacho/flask-black-dashboard/app/base/templates/includes/scripts-sidebar.html",
+		"/home/tiogeras/Integradora Nacho/flask-black-dashboard/app/base/static/assets/js/core/jquery.min.js",
+		"/home/tiogeras/Integradora Nacho/flask-black-dashboard/app/home/templates/register.html",
+		"/home/tiogeras/Integradora Nacho/flask-black-dashboard/app/home/templates/login.html",
+		"/home/tiogeras/Integradora Nacho/flask-black-dashboard/.env",
+		"/home/tiogeras/Integradora Nacho/flask-black-dashboard/package.json",
+		"/home/tiogeras/Integradora Nacho/Integradora/flask-admin-boilerplate/model/__init__.py",
+		"/home/tiogeras/Integradora Nacho/AdminLTE-3.1.0/starter.html",
+		"/home/tiogeras/Integradora Nacho/Integradora/static/css/style.css",
+		"/home/tiogeras/Integradora Nacho/Integradora/templates/admin/dashboard.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 151.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 43,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								43,
+								43
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "functions.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 936,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								591,
+								591
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 51.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "gui.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1552,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1448,
+								1448
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 466.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Virtualenv/Python + Virtualenv.sublime-build",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
